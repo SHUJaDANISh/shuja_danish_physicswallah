@@ -1,8 +1,12 @@
 # shuja_danish_physicswallah
 
-A new Flutter application.
+Demo Flutter project to fetch data from api and show users on screen.
+
+![](screenshot.PNG)
 
 ## Getting Started
+
+
 
 This project is a starting point for a Flutter application.
 
