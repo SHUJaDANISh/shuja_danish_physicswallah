@@ -1,0 +1,22 @@
+name: shuja_danish_physicswallah
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter application.
+environment: 
+  sdk: '>=2.16.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.1
+  http:
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^1.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
